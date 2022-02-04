@@ -1,0 +1,2 @@
+The second project is about training a model on Google ML with "perfect" datasets and then biased or incorrect datasets.
+The goal is to see how biased or incorrect data the trained model performances (precision and recall).
